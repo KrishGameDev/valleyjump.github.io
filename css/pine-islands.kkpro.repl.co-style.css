@@ -223,7 +223,7 @@ section .title::after{
 
 .about .title::after{
   
-    content: "Pine Islands";
+    content: "Valley Jump";
     background-color: transparent;
 }
 .about .about-content .text-center p {
